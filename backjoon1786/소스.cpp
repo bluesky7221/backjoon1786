@@ -6,9 +6,7 @@
 #pragma warning(disable:4996)
 using namespace std;
 
-#define MAX_SIZE 16382
 #define MOD 1000000000
-#define STRING_LENGTH 1000001
 
 //Rabin Karp
 // 부호 상관없는 정수 n이 주어지면 모듈라 정수계 속의 값을 리턴
